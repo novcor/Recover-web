@@ -1,1 +1,20 @@
-
+body {
+  background: #181622;
+  color: #f92772;
+  font-family: 'Fira Mono', monospace;
+  padding: 2em;
+}
+h1 { color: #f92772; }
+input[type="file"] {
+  background: #f92772;
+  color: #fff;
+  border: none;
+  padding: 0.5em;
+  border-radius: 8px;
+}
+#results {
+  margin-top: 2em;
+  background: #252138;
+  padding: 1em;
+  border-radius: 8px;
+}
